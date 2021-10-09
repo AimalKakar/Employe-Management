@@ -8,10 +8,10 @@ It is a CRUD based database
 
 Open IDE and open project to import _Employee-management_
 
-go to IDE terminal
+Go to IDE terminal
 
-Install Flask and Sqlalchemy
+Install Flask and Sqlalchemy _Packages_:
 
-pip install Flask
+Pip install Flask
 
-pip install sqlalchemy
+Pip install sqlalchemy
